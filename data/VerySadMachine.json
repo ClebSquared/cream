@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "name": "Very Sad Machine",
+    "author": "Rumba",
+    "creators": ["Rumba", "Cleb"],
+    "verifier": "Rumba",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 69,
+    "password": "No Password",
+    "records": [
+        {
+
+        }
+    ]
+}
