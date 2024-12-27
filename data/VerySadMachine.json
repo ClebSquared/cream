@@ -7,6 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=dm3JVlM8XXo",
     "percentToQualify": 69,
     "password": "No Password",
-    "records": [  
+    "records": [
+        {
+            "user": "gunk",
+            "link": "https://youtu.be/zMO4FW7aPGE?si=287y_IeurC4jS50_",
+            "percent": 100,
+            "hz": 240
+        }
     ]
-    }
