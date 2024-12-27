@@ -8,5 +8,11 @@
     "percentToQualify": "61",
     "password": "No Password",
     "records": [
+    {
+    "user": "Rumba",
+    "link": "https://www.youtube.com/watch?v=tXH2aZR-3Bk",
+    "percent": 100,
+    "hz": 240
+    }
     ]
-}
+    }
